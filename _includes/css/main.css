@@ -185,6 +185,9 @@ nav ul li:hover a, nav ul li.active a{
     padding-top: 60px;
 }
 
+.section:last-of-type {
+  padding-bottom: 600px;
+}
 
 #footer {
   padding: 8px 0;
