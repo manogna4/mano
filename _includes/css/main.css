@@ -21,7 +21,8 @@ html { box-sizing: border-box; }
   {% capture fg %}{% if site.colors[node.color] %}{{ site.colors[node.color] }}{% else %}{{ node.color }}{% endif %}{% endcapture %}
   /* nav .p-{{id}} { border-color: {{ bg }}; } */
   #{{id}} { background-color: {{ bg }} !important; color: {{ fg }}; }
-  #{{id}} a { color: {{ fg }}; }
+  /* #{{id}} a { color: {{ fg }}; } */
+  #{{id}} a { color: hsl(210, 50%, 50%); }
   #{{id}} .sectiondivider { color: {{ bg }}; }
 {% endfor %}
 
@@ -75,9 +76,11 @@ hr {
 }
 .container p, .container ol, .container ul {
   font-size: 17px;
-  padding: 0 5%;
+  padding: 0 4%;
 }
-.container ol, .container ul { padding: 0 8%; }
+.container ol, .container ul {
+  padding: 0 8%; 
+}
 .container p:first-of-type {
     margin-top: 40px;
 }
