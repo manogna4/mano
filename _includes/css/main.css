@@ -79,8 +79,19 @@ hr {
   padding: 0 4%;
 }
 .container ol, .container ul {
-  padding: 0 8%; 
+  padding: 0 6%; 
 }
+
+/* mch_bm ul ul */
+.container ol ul, .container ul ul{
+  padding: 0 4%;
+  padding: 0 2em;
+}
+
+ul ul{
+  margin-top: 6px;
+}
+
 .container p:first-of-type {
     margin-top: 40px;
 }
@@ -114,8 +125,8 @@ hr {
 
 /* ----- top menu ----- */
 
-{% assign navborder = 3 %}
-{% assign navborder_active = 6 %}
+{% assign navborder = 0 %}
+{% assign navborder_active = 0 %}
 
 nav {
   font-size:15px;
@@ -369,4 +380,11 @@ nav ul li:hover a, nav ul li.active a{
     -moz-column-count:    2;
     column-count:         2;
   }
+}
+
+/* mch_bm mano stuff */
+.section p, .section li{
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.25;
 }
