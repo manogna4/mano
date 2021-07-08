@@ -388,3 +388,7 @@ nav ul li:hover a, nav ul li.active a{
   text-justify: inter-word;
   line-height: 1.25;
 }
+
+.container blockquote p:first-of-type {
+  margin-top: 0.5em;
+}

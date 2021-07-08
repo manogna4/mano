@@ -1,0 +1,118 @@
+I"<h2><strong>Work Experience</strong></h2>
+
+<ul>
+  <li>2015 - today : <a href="https://icedtea.app">icedtea.app</a>, Inventor</li>
+  <li>2011 - today : Hitachi Payments, Vice President</li>
+  <li>2007 - 2011 : Exotic Derivatives Trading, Associate</li>
+  <li>2005 (3months) : Surrey Space Centre, Internee</li>
+</ul>
+
+<!-- | Time Period | Company | Title
+| :-: | :-: | :-:
+| 2015 - today | icedtea.app | Inventor
+| 2011 - today | Hitachi Payments | Vice President
+| 2007 - 2011 | Exotic Derivatives Trading | Associate
+| 2005 | Surrey Space Centre | Internee -->
+
+<hr />
+
+<h3><strong>icedtea.app: 2015-today</strong></h3>
+
+<p>I invented a human-centered financial framework. The <a href="https://icedtea.app" target="_blank">product wiki</a> explains the concept better:</p>
+
+<blockquote>
+  <p>icedtea is a finance app for humans.</p>
+
+  <p>icedtea is a framework that helps families live the fullest lives that their financial resources allow.</p>
+
+  <p>It does this by tinkering with their lifestyle instead of overwhelming them with jargon.</p>
+
+  <p><em><cite><a href="https://icedtea.app">icedtea.app</a></cite></em></p>
+</blockquote>
+
+<p>My family has been using icedtea since 2016. As of now, the projects consits of these parts:</p>
+<ul>
+  <li>data: API, downloaded data, SQL Server</li>
+  <li>models: Python</li>
+  <li>interface: Django, Flask</li>
+  <li>data visualization: Qlikview</li>
+</ul>
+
+<p>I am working on an integrated app.</p>
+
+<p>My career goal is to make icedtea a public product.</p>
+
+<h4><strong>Related Projects</strong></h4>
+
+<p>With icedtea as the primary goal, I worked on multiple related projects while acquiring and honing relevant expertise.</p>
+
+<p><strong><a href="http://mull.in/tags/keyboard/" target="_blank">Custom Keyboards</a></strong><br />
+I invented and adopted a 36 button easily transition-able, ergonomic alternate to the standard 108 button QWERTY layout. I learnt 3D printing, laser-cutting, etc. to decide on my hardware.</p>
+
+<p><strong>Productivity</strong> (frameworks, apps)<br />
+I engaged with developers and user communities, authored open-source plugins and feature requests. I am proficient with productivity tools like Obsidian, Notion, Github, Asana, Quire, Todoist…</p>
+
+<hr />
+
+<h3><strong>Hitachi Payments: 2011-today</strong></h3>
+
+<p>I joined the company in the early stages, when it was Prizm Payments. I was part of the core team of business leaders and played a key role in scaling it up to become a compelling acquisition for Hitachi (and others).</p>
+
+<p>Under Hitachi’s aegis, I built systems and instituted programs across the company that have an extensive, sustained impact on profitability and efficiency.</p>
+
+<h4><strong>Data Products, Head</strong></h4>
+
+<p>I created the product stack that provides insight and actionables for business leaders across the firm. It’s functionality spans assimilating primary data to managing remedial workflow at individual profit centers. I created the data warehouse and the business intelligence layer that provides the ‘Single Source of Truth’ for leaders and operators.</p>
+
+<p>Some Highlights:</p>
+
+<ul>
+  <li><strong>Cash Logistics</strong><br />
+I authored a demand forecasting algorithm that single-handedly decreased ATM costs by 5%. I authored and owned the product used to manage 15% of India’s ATMs.</li>
+  <li><strong>Business Finance</strong><br />
+I authored the annual budget individually for 50,000 profit centers broken by week based on seasonal demand, life cycle behaviour, gross national trends, and political assumptions.
+It allowed business leaders to identify problems as they happened.</li>
+</ul>
+
+<h4><strong>Intrapreneurship</strong></h4>
+
+<p>I was in the management team that conducted monthy performance reviews of the entire company. When suitable problems were identified in any department, I set up processes, built up teams and managed the projects until it they attained operational stability.</p>
+
+<p>Some highlights:</p>
+
+<ul>
+  <li><strong>Service Delivery</strong><br />
+When the business grew large enough to render escalation based prioritization methods ineffective, I engineered a process and managed a team that triaged outages by opportunity cost and customer demand. It increased profitability using existing manpower, and allowed delivery leaders to focus on de-escalating major issues.</li>
+  <li><strong>Company Culture</strong><br />
+When inter departmental coordination was recognized as a problem, I established a team of Territory Managers to own remedial actions. I created a weekly meeting format in which a managers took a ‘data &amp; story’ approach to present how they solved problems. It fostered a culture of peer learning, nurtured relationships, and delivered quick results. Many managers later moved into other important roles in the company.</li>
+</ul>
+
+<h4><strong>Others</strong></h4>
+
+<ul>
+  <li>I recruited 6 people from my personal extended network at the Assistant Vice President level or higher.</li>
+  <li>I conducted discussions on the financial projections of the company with prospective partners and investors.</li>
+  <li>I participated in reverse auctions, and structured data-led contracts with customers and vendors.</li>
+</ul>
+
+<hr />
+
+<h3>Exotic Derivatives Trading: 2007-2011</h3>
+<h4>Associate, Analyst</h4>
+
+<p>At Lehman Brothers and Nomura, I managed trading books worth an excess of 1 billion USD, analyzed complex trades and wrote their handbooks.</p>
+<ul>
+  <li>I was designated as <strong>Key Employee</strong> when Nomura purchased Lehman.</li>
+  <li>I built an automated pricing tool that made a profit of 1.5 million USD.</li>
+</ul>
+
+<hr />
+
+<h3>Surrey Space Centre: 3 months in 2005</h3>
+<h4>Summer Internee</h4>
+
+<ul>
+  <li>I built a 6-legged robot and explored the impact of gait on power consumption.</li>
+  <li>I was encouraged to apply for a PhD position based on my performance.</li>
+</ul>
+:ET
