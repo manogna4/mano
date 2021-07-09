@@ -411,3 +411,11 @@ nav ul li:hover a, nav ul li.active a{
 .container blockquote p:first-of-type {
   margin-top: 0.5em;
 }
+
+a, a:visited {
+  text-decoration: none;
+}
+.section a:hover,
+.section a:focus {
+  color: orangered !important;
+}
