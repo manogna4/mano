@@ -14,7 +14,7 @@
   {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
 	{% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}
   <!-- added by mano -->
-  {% if site.image %}<meta content= {{site.image}} property="og:image">{% endif %}
+  {% if site.image %}<meta property="og:image" content= "{{site.url}}/{{site.image}}">{% endif %}
 </head>
 <body>
   <div id="main">
