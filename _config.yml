@@ -16,7 +16,7 @@ markdown: kramdown
 ### content configuration ###
 title:       "Mano"
 keywords:    "Mano, Profession, Data Professional, Data Analyst, Intrapreneur, Hobbyist, Product Designer, Inventor"
-description: "Manogna Mano's work, hobbies and life"
+description: "Manogna Mano's portfolio"
 source_link: ""
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
